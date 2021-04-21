@@ -3,6 +3,8 @@ bin-debug/
 bin-release/
 [Oo]bj/
 [Bb]in/
+tests/_support/_generated/
+tests/_output/
 
 # Other files and folders
 .settings/
